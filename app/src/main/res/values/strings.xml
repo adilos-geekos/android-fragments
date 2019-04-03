@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Fragment</string>
+    <string name="java">Afficher Section Java</string>
+    <string name="cplus">Afficher Section C++</string>
+    <string name="python">Afficher Section Python</string>
+
 </resources>
